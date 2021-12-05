@@ -1,7 +1,7 @@
 const db = require("quick.db");
 const discord = require("discord.js");
 const client = new discord.Client({ disableEveryone: true });
-client.login("please don't reveal your token...");
+client.login("OTE2NzQyNjI5NzAwNTYyOTc0.YaulGw.NrCKVbdR4cWn9FeS1u3iwFGsa-Y");
 const fetch = require("node-fetch");
 const fs = require("fs");
 require("express")().listen(1343); //port
